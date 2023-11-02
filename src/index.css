@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #fcfcfc;
+  --surface-card: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bold {
+  font-size: 144px;
+}
+
+.card {
+  background-color: var(--surface-card);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  padding: 2rem;
+}
+
+.layout-content-inner {
+  /* padding: 2rem 4rem; */
+  margin-top: 4rem;
+}

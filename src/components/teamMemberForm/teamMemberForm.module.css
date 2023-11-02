@@ -1,0 +1,10 @@
+.error-message {
+  color: #ff0000;
+  font-weight: 600;
+  font-size: 0.75rem;
+}
+.text-input {
+  padding: 0.3rem;
+  border-radius: 0.4rem;
+  margin-bottom: 0.2rem;
+}
